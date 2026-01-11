@@ -1,6 +1,6 @@
 # 🚀 Tailwind UI Prompts
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Nurfikriihsan/Tailwind?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/nurfihsn/Tailwind?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Ready-38B2AC?logo=tailwind-css\&logoColor=white)
 
