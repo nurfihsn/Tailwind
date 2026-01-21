@@ -4,8 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Ready-38B2AC?logo=tailwind-css\&logoColor=white)
 
-Kompilasi **200+ prompt siap pakai** untuk generate komponen **Tailwind CSS** menggunakan AI (misalnya ChatGPT, Claude, Copilot, dll).
-Bisa langsung dipakai untuk bikin **layout, navigasi, form, dashboard, marketing section, hingga chart analitik**.
+Kompilasi **200+ prompt siap pakai** untuk generate komponen **Tailwind CSS** menggunakan AI.
 
 ---
 
